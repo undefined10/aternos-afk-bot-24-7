@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "bsdk55.aternos.me",
-    "port": 29455,
+    "port": 60459,
     "version": "1.20.1",
     "try-creative": false
   },
